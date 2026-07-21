@@ -152,7 +152,11 @@ Through this whole project, I gained practical experience in:
 
 
 Done by - 
+
    Jyotsana
+   
    Data Analyst | SQL | Power BI | Python | Excel
+   
    Github - https://github.com/Jyotsana1107/
+   
    LinkedIn - www.linkedin.com/in/jyotsanaanand11
