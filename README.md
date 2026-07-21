@@ -117,8 +117,8 @@ CustomerChurn.csv files contain the data of the customers, their payment methods
 10. Reporting
 
     Have reported this whole process and analysis in 3 different forms:
-    1. pdf/ readme file containg whole process followed
-    2. a pdf/doc having separate and combined analysis with observations, insights and recommendations
+    1. a readme containg whole process followed
+    2. a pdf having separate and combined analysis with observations, insights and recommendations
     3. a ppt to showcase the analysis and insights we got in a precise manner
 
 
