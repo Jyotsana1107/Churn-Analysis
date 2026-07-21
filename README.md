@@ -99,8 +99,60 @@ CustomerChurn.csv files contain the data of the customers, their payment methods
    
    This dataset has been cleaned and validated, the missing values and duplicate values have been treated and the data types and values has been fixed. Tenure was calculated wrong which has been fixed.
 
-6. Exploratory Data Analysis (EDA)
-   
-   This is in progress.
+7. Exploratory Data Analysis (EDA)
 
-                                                *The project is in progress*
+   Have analyzed all aspects of the company like Customer Churn, Customer Profile, Contract Type, Internet Service, Phone Service, Multiple Lines, Additional Services, Streaming Services, Payment Methods, Paperless Billing, Customer Tenure, and Monthly Charges on basis of churn having cutomers who remained and who churned both.L
+
+8. Dahboard Development
+   
+   In this step, I have created an interactive dashboard which has KPI Cards, Slicers, Customer Profile Analysis, Contract Analysis, Internet Service Analysis, Phone Service Distribution Analysis, Multiplelines Distribution Analysis, Additional Services Analysis, Streaming Services Analysis, Paperless Billing Analysis, and Payment Methods Analysis.
+   Different types of graphs have been create to showcase the analysis in an easy understandable form to help in decision making and progress of our company.
+
+9. Analysis
+
+    Got my observations from the charts analyzed them got information from them with proof and recommeded the steps which can be taken to reduce the churn rate of company in the specific aspects of the company.
+   These has been recorded up in a separate clean file which includes the charts name, observations, insights and recommendations for each affect separately and for all together which are affecting the company.
+   Mentioned the points to which are affecting the whole company most and the concerns regarding the specific aspects of company which are deriving most of the churn rate.
+
+10. Reporting
+
+    Have reported this whole process and analysis in 3 different forms:
+    1. pdf/ readme file containg whole process followed
+    2. a pdf/doc having separate and combined analysis with observations, insights and recommendations
+    3. a ppt to showcase the analysis and insights we got in a precise manner
+
+
+**Key Insights**
+
+- Overall customer churn rate is 26.58%, meaning approximately 1 in 4 customers leave the company.
+- Customers on Month-to-Month contracts show the highest churn.
+- Fiber Optic customers represent the largest churn segment among internet service types.
+- Customers with shorter tenure are significantly more likely to churn.
+- Customers without Online Security, Online Backup, Device Protection, and Tech Support consistently show higher churn.
+- Electronic Check users have higher churn compared to other payment methods.
+
+  
+**Business Recommendations**
+
+- Develop targeted retention campaigns for Month-to-Month customers.
+- Investigate the reasons behind higher churn among Fiber Optic customers.
+- Strengthen customer engagement during the early months of the customer lifecycle.
+- Promote value-added services such as Online Security and Tech Support where appropriate.
+- Review the Electronic Check payment experience and evaluate improvements.
+
+
+**Key Learnings**
+
+Through this whole project, I gained practical experience in:
+- Data does not answer business questions by itself, I had written many queries programs but these alone are not able to answer the business questions asked
+- I also spent a significant amount of time trying to get results from rows of SQL commands. Once I visualized that cleaned modified data in Power BI, identifying trends, comparisons, and customer behavior became much more effective.
+- Learned that just because the two variables are associated, it does not mean one causes the other. Recommendations should be based on evidence from the data rather than assumptions or things we just know but have no proof about.
+- This project taught me that data analysis is rarely simple or straight. I refined my questions, redesigned visuals, and revisited my interpretations multiple times in this project before arriving at meaningful conclusions.
+- My biggest mistake was to try combining many variables together resulting into complex analyses. I later realized that simple visuals and focused analyses are more valuable for the business.
+
+
+Done by - 
+   Jyotsana
+   Data Analyst | SQL | Power BI | Python | Excel
+   Github - https://github.com/Jyotsana1107/
+   LinkedIn - www.linkedin.com/in/jyotsanaanand11
